@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "phpspec": "phpspec"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^5.1"
+    },
+    "autoload": {"psr-0": {"": "src"}}
+}
